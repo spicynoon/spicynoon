@@ -34,8 +34,11 @@
   - Monitoring organizational performance improvements
 #### 6. [Student Association of Informatics Engineering UIN Sunan Gunung Djati 'HIMATIF'](https://www.instagram.com/himatifuinbandung) | Staff of Intellectual Division | `2022 - 2023` 
 
-### Languages and Tools:
+## Project:
+#### 1. [Level Register Website](https://spicynoon.github.io/levelregister.github.io)
+#### 2. [Babukcoy Adventure](https://youtu.be/L06AycI_Ffo)
 
+## Languages and Tools:
 <p align="left"> 
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -52,10 +55,8 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
-
 <br />
 <br />
-
 ---
 
 ### GitHub Stats:
